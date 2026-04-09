@@ -3,7 +3,11 @@
 
 def login(username):
     print(f"Welcome, {username}! Login completed.")
-    
+
+def logout(username):
+    print(f"User {username} logged out.")
+
+
 def main():
     print("Student Portal System")
 
