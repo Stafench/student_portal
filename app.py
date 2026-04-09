@@ -2,7 +2,7 @@
 
 
 def login(username):
-    print(f"Student {username} successfully logged in.")
+    print(f"Student {username} entered the portal.")
 
 def main():
     print("Student Portal System")
